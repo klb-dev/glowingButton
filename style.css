@@ -146,5 +146,7 @@ h1 {
 }
 
 .footer-wrapper img {
-    width: 4%;
+    width: 4em;
+    min-width: 3em;
+    height: auto;
 }
